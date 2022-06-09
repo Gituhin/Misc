@@ -1,2 +1,2 @@
 ## Miscellaneous Repository
-Generally to be used for file hosting purposes.
+Generally to be used for file hosting purposes
